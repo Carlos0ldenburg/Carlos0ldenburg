@@ -9,7 +9,9 @@ Engenheiro de software e empreendedor tech focado em criar soluções escalávei
 ### 🚀 O que estou construindo
 
 - 🏢 **[CliqFast](https://cliqfast.com.br):** Plataforma SaaS & Marketplace white-label com painel no-code/gestão dinâmica, integrações de importação automatizada (Dropi), ERPs fiscais e aplicativo mobile nativo.
+
 - 📱 **Mobile & Multi-tenant:** Desenvolvendo aplicações em React Native / Expo com roteamento dinâmico B2B e B2C, autenticação OTP/MFA e sincronização em tempo real.
+
 - ⚡ **AI-Augmented Engineering:** Explorando os limites do *agentic development* e automação de fluxos com IA para entrega ágil de software de alto impacto.
 
 ---
@@ -17,8 +19,11 @@ Engenheiro de software e empreendedor tech focado em criar soluções escalávei
 ### 🛠️ Stack & Tecnologias
 
 - **Front-end & Mobile:** React, Next.js, React Native, Expo, Tailwind CSS, TypeScript
-- **Back-end & APIs:** Node.js, RESTful APIs, Webhooks, integrações de pagamento (Mercado Pago/Pix)
-- **Infraestrutura & Cloud:** Cloudflare (DNS, SSL for SaaS, Workers), Docker, Supabase / PostgreSQL
+
+- **Back-end & APIs:** Node.js, RESTful APIs, Webhooks, integrações de pagamento (ASAAS/Pix)
+
+- **Infraestrutura & Cloud:** Cloudflare (DNS, SSL for SaaS, Workers) / PostgreSQL
+
 - **Integrações de Negócio:** Dropi API, ERPs parceiros (Bling/Tiny), Google OAuth 2.0, TOTP/MFA
 
 ---
