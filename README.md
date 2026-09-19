@@ -2,7 +2,7 @@
 
 **Founder, CTO & Solo Engineer na [CliqFast](https://cliqfast.com.br)**
 
-Engenheiro de software e empreendedor tech focado em criar soluções escaláveis, combinando arquitetura moderna, desenvolvimento acelerado por IA (*vibe coding*) e produtos digitais orientados a dados. Atualmente liderando todo o ciclo de engenharia, infraestrutura cloud e visão de produto da CliqFast.
+Engenheiro de software e empreendedor tech focado em criar soluções escaláveis, combinando arquitetura moderna, desenvolvimento e produtos digitais orientados a dados. Atualmente liderando todo o ciclo de engenharia, infraestrutura cloud e visão de produto da CliqFast.
 
 ---
 
